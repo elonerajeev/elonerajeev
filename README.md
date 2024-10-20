@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
 
-<img align="center" src="https://tse3.explicit.bing.net/th?id=OIP.W7a9_ZUrkU0-rX_nVFkwVAHaEK&pid=Api&P=0&h=180" width="1200" height="150" >
+<img align="center" src="https://unsplash.com/photos/lines-of-html-codes-4hbJ-eymZ1o" width="1200" height="150" >
 
-<h3 align="center">A passionate Backend Software Engineer from India</h3>
+<h3 align="center">A passionate Software developer/Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elonerajeev&label=Profile%20views&color=0e75b6&style=flat" alt="elonerajeev" /> </p>
 
@@ -12,17 +12,17 @@
 
 - 🔭 I’m currently working on **@LearnTube**
 
-- 🌱 I’m currently learning **Software Developmenet and Problem Solving**
+- 🌱 I’m currently learning **Software Developmenet Life Cycle**
 
-- 👯 I’m looking to collaborate on [Software Developmenet Project]()
+- 👯 I’m looking to collaborate on [Software Developmenet Project](http://www.#.com)
 
 - 🤝 I’m looking for help with **Developers $ Engineers**
 
-- 👨‍💻 All of my projects are available at [https://www.elonerajeev.com](https://github.com/elonerajeev?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://www.demo.com](https://www.demo.com)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/3828505947740479403](https://www.blogger.com/blog/posts/3828505947740479403)
 
-- 💬 Ask me about **Backend** : Java + NodeJS + Express + API + javaScript || **DataBase** : MongoDB + SQL || **Devops** : AWS + Git/Github + Docker + Lunix + Others**
+- 💬 Ask me about **Java, React, Javascript, DevOps, and AWS**
 
 - 📫 How to reach me **elonerajeev@gmail.com**
 
@@ -32,13 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajeev02030066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeev02030066" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com/in/rajeev-kumar-2209b1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeev-kumar-2209b1243" height="30" width="40" /></a>
-
-<a href="https://leetcode.com/u/elonerajeev1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="elonerajeev" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/profile/elonerajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elonerajeev" height="30" width="40" /></a>
+<a href="https://twitter.com/rajeev02030066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajeev02030066" height="30" width="40" /></a> <a href="https://linkedin.com/in/rajeev-kumar-2209b1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeev-kumar-2209b1243" height="30" width="40" /></a> <a href="https://instagram.com/iamelonerajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamelonerajeev" height="30" width="40" /></a> <a href="https://www.codechef.com/users/rajeev02030066" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajeev02030066" height="30" width="40" /></a> <a href="https://www.hackerrank.com/rajeev_22jics087?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajeev_22jics087?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
