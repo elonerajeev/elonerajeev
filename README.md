@@ -10,25 +10,23 @@
 
 <p align="left"> <a href="https://twitter.com/rajeev02030066" target="blank"><img src="https://img.shields.io/twitter/follow/rajeev02030066?logo=twitter&style=for-the-badge" alt="rajeev02030066" /></a> </p>
 
-- 🔭 I’m currently working on **@LearnTube**
 
-- 🌱 I’m currently learning **Software Developmenet Life Cycle**
+- 🌱 I’m currently learning **AWS Devops Engineering**
 
-- 👯 I’m looking to collaborate on [Software Developmenet Project](http://www.#.com)
+- 👯 I’m looking to collaborate on [Software Dev + Op Project](http://www.#.com)
 
-- 🤝 I’m looking for help with **Developers $ Engineers**
+- 🤝 I’m looking for help with **AWS Devops Engineer**
 
-- 👨‍💻 All of my projects are available at [https://www.demo.com](https://www.demo.com)
+- 👨‍💻 All of my portfolio are available at [https://www.demo.com](rajeevxportfolio.netlify.app)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/3828505947740479403](https://www.blogger.com/blog/posts/3828505947740479403)
 
-- 💬 Ask me about **Java, React, Javascript, DevOps, and AWS**
+- 💬 Ask me about **Devops , AWS , Docker , Networking, DBMS , Linux, Jenkin , Terraform , Kubernetes , Prometheus , Git , Github , Ansible**
 
-- 📫 How to reach me **elonerajeev@gmail.com**
+- 📫 How to reach me **rajeevkumarx12@gmail.com@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rajeev-kumar-2209b1243/details/experience/](https://www.linkedin.com/in/rajeev-kumar-2209b1243/details/experience/)
 
-- ⚡ Fun fact **I Think motivation Speech Is Very Low Power Capsule.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
