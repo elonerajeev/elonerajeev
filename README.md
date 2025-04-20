@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
 
-<img align="center" src="https://unsplash.com/photos/lines-of-html-codes-4hbJ-eymZ1o" width="1200" height="150" >
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-3Pe55UVY58gcv3N8QPIvVNb38CtcNYIGQ&s" width="650" height="150" >
 
-<h3 align="center">A passionate Software developer/Engineer from India</h3>
+<h3 align="center">A passionate AWS Devops Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elonerajeev&label=Profile%20views&color=0e75b6&style=flat" alt="elonerajeev" /> </p>
 
