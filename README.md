@@ -17,7 +17,6 @@
 
 - 🛠️ **AWS DevOps Engineer** focused on cloud infrastructure, automation, CI/CD, and security.
 - ☁️ Deep hands-on expertise in AWS (20+ services), Docker, Kubernetes, Terraform, Chef, and cloud-native architecture.
-- 🔐 Passionate about serverless solutions, cloud security, and automating everything.
 - 🔄 Strong background in agile, collaboration, and modern DevOps practices.
 - 💻 Also experienced in full-stack web development (MERN stack, RESTful APIs)—giving me a developer’s perspective on DevOps!
 
@@ -40,11 +39,6 @@
 ## 🧑‍💻 Experience
 
 - **AWS DevOps Engineer (Current Focus)**
-
-  - Designing & managing scalable AWS cloud infrastructures
-  - Automating deployments with CI/CD pipelines (GitHub Actions, Jenkins)
-  - Implementing Infrastructure-as-Code with Terraform & Chef
-  - Ensuring cloud security and best practices
 
 - **Full-Stack Development Intern** @ Zetron Networks Pvt. Ltd. (May 2024 – June 2024)
 
@@ -80,29 +74,74 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:800/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="50" height="50"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png" alt="Terraform" width="50" height="50"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpvZ600rP3Tb1CTDtx5q8eb8qZwA-y3cNxg&s" alt="Prometheus" width="50" height="50"/> </a> 
-
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:800/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png" alt="Terraform" width="50" height="50"/> 
+  </a> 
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpvZ600rP3Tb1CTDtx5q8eb8qZwA-y3cNxg&s" alt="Prometheus" width="50" height="50"/> 
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="40" height="40"/> 
+  </a> 
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic stack" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:850/1*LKvSu_8zvW8W1wM2yNiJag.png" alt="cloudformation" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbls2yJjCuSvY-V7HYfcvOY98Tx4DGcVRQQ&s" alt="Linux" width="40" height="40"/> 
+  </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elonerajeev&show_icons=true&locale=en&layout=compact" alt="elonerajeev" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=elonerajeev&show_icons=true&locale=en" alt="elonerajeev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elonerajeev&" alt="elonerajeev" /></p>
 
 > **"Automate, innovate, and build for the cloud—always keep learning."**
