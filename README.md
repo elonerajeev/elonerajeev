@@ -1,147 +1,159 @@
-# Hi there, I'm Rajeev Kumar! 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajeev--kumar--2209b1243-blue?logo=linkedin)](https://linkedin.com/in/rajeev-kumar-2209b1243)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rajeevxportfolio.netlify.app-9cf?logo=internet-explorer)](https://rajeevxportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-elonerajeev-181717?logo=github)](https://github.com/elonerajeev)
-[![Gmail](https://img.shields.io/badge/Email-rajeevkumarx12@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:rajeevkumarx12@gmail.com)
+```
+~/cloud-devops $ whoami
+```
 
----
+# Rajeev Kumar
+### ☁️ Cloud & DevOps Engineer · @Zintellix · Jaipur, IN
 
-🎓 **B.Tech in Computer Science** | Jodhpur Institute of Engineering and Technology (2022–2026)  
-🌟 **AWS DevOps Engineer & Cloud Enthusiast** | CI/CD | Automation | Cloud Security | Infrastructure as Code  
-💡 Obsessed with building scalable, secure, and reliable cloud-native solutions!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-heyrajeev1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyrajeev1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajeevxportfolio-00C896?style=flat-square&logo=vercel&logoColor=white)](https://rajeevxportfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-elonerajeev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elonerajeev)
+[![Email](https://img.shields.io/badge/Email-rajeevkumarx12-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajeevkumarx12@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=elonerajeev&color=00C896&style=flat-square&label=Profile+Views)
 
----
-
-## 🚀 About Me
-
-- 🛠️ **AWS DevOps Engineer** focused on cloud infrastructure, automation, CI/CD, and security.
-- ☁️ Deep hands-on expertise in AWS (20+ services), Docker, Kubernetes, Terraform, Chef, and cloud-native architecture.
-- 🔄 Strong background in agile, collaboration, and modern DevOps practices.
-- 💻 Also experienced in full-stack web development (MERN stack, RESTful APIs)—giving me a developer’s perspective on DevOps!
+</div>
 
 ---
 
-## 🛠️ Skills
+## ⚡ GitHub Stats
 
-- **CI/CD:** Jenkins, GitHub Actions
-- **IaC:** Terraform, AWS CloudFormation
-- **Cloud Infra:** AWS (Lambda, EC2, S3, API Gateway, Cognito, CloudFront, ECS, ECR, CloudWatch)
-- **Containers & Orchestration:** Docker, Kubernetes
-- **Configuration Management:** Chef
-- **Programming:** Java, JavaScript, SQL
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, RESTful APIs, JWT Auth
-- **Tools:** Git, GitHub, Postman, VS Code, Linux, ganache
-- **Soft Skills:** Problem-Solving, Teamwork, Adaptability, Communication, Time Management
-
----
-
-## 🧑‍💻 Experience
-
-- **AWS DevOps Engineer (Current Focus)**
-
-- **Full-Stack Development Intern** @ Zetron Networks Pvt. Ltd. (May 2024 – June 2024)
-
-
-- **Software Development Intern** @ InfoTech (Jan 2024 – Feb 2024)
-
-- **Software SDevelopment (AWS Cloud) Intern** @ Prof-Cess (May 2025 – Aug 2025)
----
-
-## 🌟 Featured Projects
-
-- **1. Serverless Web Application on AWS**  
-
-- **2. Deployed E-Commerce MERN App With CI/CD Pipeline and IaC**  
-
-- **3. Cloud-Native Microservices Platform with Automated CI/CD**  
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced AWS DevOps automation and cloud orchestration
-- Serverless and event-driven architectures
-- Secure cloud-native deployments
-- Blockchain integration with cloud workloads
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elonerajeev&label=Profile%20views&color=0e75b6&style=flat" alt="elonerajeev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elonerajeev" alt="elonerajeev" /></a> </p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:800/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png" alt="Terraform" width="50" height="50"/> 
-  </a> 
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpvZ600rP3Tb1CTDtx5q8eb8qZwA-y3cNxg&s" alt="Prometheus" width="50" height="50"/> 
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="40" height="40"/> 
-  </a> 
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic stack" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:850/1*LKvSu_8zvW8W1wM2yNiJag.png" alt="cloudformation" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbls2yJjCuSvY-V7HYfcvOY98Tx4DGcVRQQ&s" alt="Linux" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elonerajeev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=elonerajeev&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elonerajeev&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-> **"Automate, innovate, and build for the cloud—always keep learning."**
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elonerajeev&theme=github_dark" />
+</p>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="106">
+
+![Zintellix](https://zintellix.com/static/media/zintellixLogo.d291a5c0bf44878ec848ca781a5a8008.svg)
+
+</td>
+<td>
+
+**DevOps Cloud Engineer** &nbsp;·&nbsp; ![Zintellix](https://img.shields.io/badge/Zintellix-Jaipur-1f6feb?style=flat-square&logo=icloud&logoColor=white) &nbsp; `Oct 2025 → Present`
+- CI/CD ownership for **10+ devs** → **-50% deployment time** · AWS + Azure
+- Cloud cost optimization → **-30% infra spend** with full observability
+- Complete Terraform IaC + Docker/Kubernetes provisioning · zero manual errors
+
+</td>
+</tr>
+<tr>
+<td width="56">
+
+![L&T](https://imgs.search.brave.com/BN97iYGthriDhd9BAFUh2PmR0LLE87MBLWHNtAnfVx0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUxLzEvbHQtZWR1/dGVjaC1sb2dvLXBu/Z19zZWVrbG9nby01/MTgyMzcucG5n)
+
+</td>
+<td>
+
+**Cloud DevOps Trainee** &nbsp;·&nbsp; ![L&T EduTech](https://img.shields.io/badge/L%26T_EduTech-Hybrid-8b0000?style=flat-square&logo=academia&logoColor=white) &nbsp; `Jan 2024 → Feb 2025`
+- Jenkins + GitHub Actions pipelines → **-60% deployment time**
+- Terraform IaC → **100% infrastructure consistency** across environments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Skills & Tools
+
+**Cloud & Infrastructure**
+
+[![Skills](https://skillicons.dev/icons?i=aws,kubernetes,terraform,azure,ansible)](https://skillicons.dev)
+
+**CI/CD & Containers**
+
+[![Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions)](https://skillicons.dev)
+
+**Monitoring & Security**
+
+[![Skills](https://skillicons.dev/icons?i=prometheus,grafana,linux)](https://skillicons.dev)
+
+**Scripting & Dev**
+
+[![Skills](https://skillicons.dev/icons?i=python,bash,javascript,mongodb,mysql)](https://skillicons.dev)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Pulse-Monitor](https://github.com/elonerajeev)
+![DevOps](https://img.shields.io/badge/DevOps-Project-00C896?style=flat-square)
+
+Enterprise CLI + SaaS monitoring platform providing real-time system health across production workloads — from concept to live deployment.
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-181717?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔁 [Flowsyc](https://github.com/elonerajeev/flowsyc)
+![Product](https://img.shields.io/badge/Product-Build-58A6FF?style=flat-square)
+
+AI-powered workflow automation & sync platform built at Zintellix. n8n integrated, API-first cross-team pipeline orchestration — production ready.
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certs
+
+| | |
+|---|---|
+| 🎓 **B.Tech Computer Science** | JIET, Rajasthan · `8.43 CGPA` · 2022–2026 |
+| ☁️ **AWS Cloud Practitioner Essentials** | Amazon Web Services |
+| 💻 **AWS Certified Developer** | LinkedIn Learning |
+| 🏗️ **Cloud DevOps** | Intel |
+| ⚙️ **Cloud DevOps Trainee** | L&T EduTech |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=elonerajeev&theme=darkhub&no-frame=true&column=6&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Automate everything. Break nothing in prod."*
+
+**Open to DevOps / Cloud Engineering roles**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyrajeev1)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://rajeevxportfolio.netlify.app)
+
+</div>
