@@ -5,11 +5,10 @@
 ```
 
 # Rajeev Kumar
-### ☁️ Cloud & DevOps Engineer · @Zintellix · Jaipur, IN
+### ☁️ Cloud & DevOps Engineer · @Zynsera · Jaipur, IN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-heyrajeev1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyrajeev1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rajeevxportfolio-00C896?style=flat-square&logo=vercel&logoColor=white)](https://rajeevxportfolio.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-elonerajeev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elonerajeev)
 [![Email](https://img.shields.io/badge/Email-rajeevkumarx12-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajeevkumarx12@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=elonerajeev&color=00C896&style=flat-square&label=Profile+Views)
 
