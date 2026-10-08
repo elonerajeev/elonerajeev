@@ -8,8 +8,8 @@
 ### ☁️ Cloud & DevOps Engineer · @Zynsera · Jaipur, IN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-heyrajeev1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyrajeev1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rajeevxportfolio-00C896?style=flat-square&logo=vercel&logoColor=white)](https://rajeevxportfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-rajeevkumarx12-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajeevkumarx12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajeev.pro-00C896?style=flat-square&logo=googlechrome&logoColor=white)](https://www.rajeev.pro)
+[![Email](https://img.shields.io/badge/Email-elonerajeev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elonerajeev@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=elonerajeev&color=00C896&style=flat-square&label=Profile+Views)
 
 </div>
@@ -153,6 +153,6 @@ AI-powered workflow automation & sync platform built at Zintellix. n8n integrate
 **Open to DevOps / Cloud Engineering roles**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyrajeev1)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://rajeevxportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rajeev.pro)
 
 </div>
